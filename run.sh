@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo `date`: hello world
+echo `date`: hello world2
 
